@@ -1,0 +1,10 @@
+def distance_from_zero(d):
+  if type(d) == int or type(d) == float:
+    print(abs(d))
+  else: print("Nope")
+
+distance_from_zero(-10)
+distance_from_zero(10)
+distance_from_zero(-10.11)
+distance_from_zero("ABC")
+

@@ -1,0 +1,168 @@
+{
+  "fromdavid": [
+    {
+      "entities": [
+        [
+          "people",
+          "Leibovich",
+          751
+        ],
+        [
+          "geo",
+          "CAIX",
+          696
+        ],
+        [
+          "organization",
+          "Von Hippel Lindau ( VHL",
+          1388
+        ],
+        [
+          "organization",
+          "Region of Southern Denmark",
+          1389
+        ],
+        [
+          "organization",
+          "Renal Cell Carcinoma ( RCC",
+          1390
+        ],
+        [
+          "organization",
+          "RCC",
+          1391
+        ],
+        [
+          "organization",
+          "American Joint Committee on Cancers ( AJCC",
+          1392
+        ],
+        [
+          "organization",
+          "Taqman\u00ae Low Density Array",
+          1393
+        ],
+        [
+          "organization",
+          "Oct [ Epub ] Maj Rabjerg",
+          1394
+        ]
+      ],
+      "text": "Identification and validation of novel prognostic markers in Renal Cell Carcinoma. | Kidney cancer (Renal Cell Carcinoma (RCC)) is one of the most deadly malignancies due to frequent late diagnosis and poor treatment options. Histologically, RCC embraces a wide variety of different subtypes with the clear cell variant (ccRCC) being the most common, accounting for 75-90% of all RCCs. At present, the surveillance protocols for follow-up of RCC patients after radical nephrectomy are based on the American Joint Committee on Cancers (AJCC) pathological tumor-node-metastasis (TNM) classification system. Other comprehensive staging modalities have emerged and have been implemented in an attempt to improve prognostication by combining other pathological and clinical variables, including Fuhrman nuclear grade and Leibovich score. However, even early stage tumors remain at risk of metastatic progression after surgical resection and 20-40% of patients undergoing nephrectomy for clinically localized RCC will develop a recurrence. Identifying this high-risk group of RCC patients remains a challenge. Hence, novel molecular prognostic biomarkers are needed to better predict clinical outcomes. An intensive search within this field has been ongoing in the past few years, and the three main predictive and prognostic markers validated in RCC are Von Hippel Lindau (VHL), vascular endothelial growth factor (VEGF) and carbonic anhydrase IX (CAIX). Nonetheless, the use of these is still debated and none of them have yet been implemented in clinical routine. RCC is resistant to conventional oncological therapies, such as chemotherapy and radiation. The availability of novel targeted therapies directed against tumorigenic and angiogenic pathways have increased over the last years, and the outcome of patients with advanced RCC has significantly improved as a consequence. Unfortunately, all patients eventually become resistant. Thus, the development of novel targeted therapies is of great importance. The aim of this thesis was therefore to contribute in the search for novel prognostic molecular markers in RCC and to identify novel targeted therapies by in-vitro studies. This was specifically conducted by investigating; 1) The impact of symptom presentation of RCC on prognosis, 2) The expression of Calcium-activated potassium channels in RCC, the correlation of KCa3.1 to prognosis in ccRCC and the ability of TRAM-34, RA-2 and Paxilline to inhibit the proliferation of ccRCC cell lines in-vitro, 3) The gene expression and prognostic value of 19 selected genes in ccRCC and 4) The expression of the protein kinase CK subunits in subtypes of RCC, the prognostic impact of high protein expression of the CK2\u03b1 subunit in ccRCC and the ability of CX-4945 and E9 to inhibit ccRCC growth in-vitro. Our molecular study cohort consisted of 155 patients with different subtypes of RCC and the benign renal neoplasm, oncocytoma. They were diagnosed in Region of Southern Denmark in 2001-2013. Frozen tissue from tumor and normal renal cortex parenchyma, together with paraffin-embedded tissue was available for every patient. We performed gene expression analysis by qRT-PCR, immunohistochemical staining of Tissue Micro Arrays, protein kinase activity analysis and functional studies. Study I was performed as a descriptive observational study focusing on the prognostic impact of symptom presentation in RCC. We included 204 patients with renal neoplasms diagnosed in 2011-2012. Incidentally discovered RCC without symptomatic presentation had overall a better prognosis, and presented with smaller tumors, a lower T-stage, lower Fuhrman grade and lower Leibovich score. In addition, the non-symptomatic patient group experienced metastatic disease less frequently. In study II we focused on the expression of two calcium-activated potassium channels in ccRCC and oncocytoma. Both KCa3.1 and KCa1.1 were higher expressed in ccRCC compared to oncocytoma. High expression of KCa3.1 was moreover correlated with poor progression free survival of ccRCC. Functional studies provided ",
+      "key": "20171020074500-869",
+      "subjects": [
+        [
+          "A",
+          0.49555
+        ],
+        [
+          "E1509",
+          0.525124
+        ],
+        [
+          "B0302",
+          0.528936
+        ],
+        [
+          "T080104",
+          0.559574
+        ],
+        [
+          "F04",
+          0.583179
+        ],
+        [
+          "E1401",
+          0.647594
+        ],
+        [
+          "E1515",
+          0.804287
+        ]
+      ]
+    },
+
+    {
+      "entities": [
+        [
+          "people",
+          "Leibovich",
+          751
+        ],
+        [
+          "geo",
+          "CAIX",
+          696
+        ],
+        [
+          "organization",
+          "Von Hippel Lindau ( VHL",
+          1388
+        ],
+        [
+          "organization",
+          "Region of Southern Denmark",
+          1389
+        ],
+        [
+          "organization",
+          "Renal Cell Carcinoma ( RCC",
+          1390
+        ],
+        [
+          "organization",
+          "RCC",
+          1391
+        ],
+        [
+          "organization",
+          "American Joint Committee on Cancers ( AJCC",
+          1392
+        ],
+        [
+          "organization",
+          "Taqman\u00ae Low Density Array",
+          1393
+        ],
+        [
+          "organization",
+          "Oct [ Epub ] Maj Rabjerg",
+          1394
+        ]
+      ],
+      "text": "Identification and validation of novel prognostic markers in Renal Cell Carcinoma. | Kidney cancer (Renal Cell Carcinoma (RCC)) is one of the most deadly malignancies due to frequent late diagnosis and poor treatment options. Histologically, RCC embraces a wide variety of different subtypes with the clear cell variant (ccRCC) being the most common, accounting for 75-90% of all RCCs. At present, the surveillance protocols for follow-up of RCC patients after radical nephrectomy are based on the American Joint Committee on Cancers (AJCC) pathological tumor-node-metastasis (TNM) classification system. Other comprehensive staging modalities have emerged and have been implemented in an attempt to improve prognostication by combining other pathological and clinical variables, including Fuhrman nuclear grade and Leibovich score. However, even early stage tumors remain at risk of metastatic progression after surgical resection and 20-40% of patients undergoing nephrectomy for clinically localized RCC will develop a recurrence. Identifying this high-risk group of RCC patients remains a challenge. Hence, novel molecular prognostic biomarkers are needed to better predict clinical outcomes. An intensive search within this field has been ongoing in the past few years, and the three main predictive and prognostic markers validated in RCC are Von Hippel Lindau (VHL), vascular endothelial growth factor (VEGF) and carbonic anhydrase IX (CAIX). Nonetheless, the use of these is still debated and none of them have yet been implemented in clinical routine. RCC is resistant to conventional oncological therapies, such as chemotherapy and radiation. The availability of novel targeted therapies directed against tumorigenic and angiogenic pathways have increased over the last years, and the outcome of patients with advanced RCC has significantly improved as a consequence. Unfortunately, all patients eventually become resistant. Thus, the development of novel targeted therapies is of great importance. The aim of this thesis was therefore to contribute in the search for novel prognostic molecular markers in RCC and to identify novel targeted therapies by in-vitro studies. This was specifically conducted by investigating; 1) The impact of symptom presentation of RCC on prognosis, 2) The expression of Calcium-activated potassium channels in RCC, the correlation of KCa3.1 to prognosis in ccRCC and the ability of TRAM-34, RA-2 and Paxilline to inhibit the proliferation of ccRCC cell lines in-vitro, 3) The gene expression and prognostic value of 19 selected genes in ccRCC and 4) The expression of the protein kinase CK subunits in subtypes of RCC, the prognostic impact of high protein expression of the CK2\u03b1 subunit in ccRCC and the ability of CX-4945 and E9 to inhibit ccRCC growth in-vitro. Our molecular study cohort consisted of 155 patients with different subtypes of RCC and the benign renal neoplasm, oncocytoma. They were diagnosed in Region of Southern Denmark in 2001-2013. Frozen tissue from tumor and normal renal cortex parenchyma, together with paraffin-embedded tissue was available for every patient. We performed gene expression analysis by qRT-PCR, immunohistochemical staining of Tissue Micro Arrays, protein kinase activity analysis and functional studies. Study I was performed as a descriptive observational study focusing on the prognostic impact of symptom presentation in RCC. We included 204 patients with renal neoplasms diagnosed in 2011-2012. Incidentally discovered RCC without symptomatic presentation had overall a better prognosis, and presented with smaller tumors, a lower T-stage, lower Fuhrman grade and lower Leibovich score. In addition, the non-symptomatic patient group experienced metastatic disease less frequently. In study II we focused on the expression of two calcium-activated potassium channels in ccRCC and oncocytoma. Both KCa3.1 and KCa1.1 were higher expressed in ccRCC compared to oncocytoma. High expression of KCa3.1 was moreover correlated with poor progression free survival of ccRCC. Functional studies provided ",
+      "key": "20171020074500-869",
+      "subjects": [
+        [
+          "A",
+          0.49555
+        ],
+        [
+          "E1509",
+          0.525124
+        ],
+        [
+          "B0302",
+          0.528936
+        ],
+        [
+          "T080104",
+          0.559574
+        ],
+        [
+          "F04",
+          0.583179
+        ],
+        [
+          "E1401",
+          0.647594
+        ],
+        [
+          "E1515",
+          0.804287
+        ]
+      ]
+    }
+
+  ]
+}
